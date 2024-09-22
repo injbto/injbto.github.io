@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://injbto.github.io/sitemap.html.gz
+Sitemap: https://injbto.github.io/app/sitemap.html.gz
+Sitemap: https://injbto.github.io/assets/sitemap.html.gz
+Sitemap: https://injbto.github.io/css/sitemap.html.gz
+Sitemap: https://injbto.github.io/data/sitemap.html.gz
+Sitemap: https://injbto.github.io/includes/sitemap.html.gz
+Sitemap: https://injbto.github.io/item/sitemap.html.gz
+Sitemap: https://injbto.github.io/src/sitemap.html.gz
